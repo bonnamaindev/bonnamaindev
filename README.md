@@ -86,15 +86,13 @@ I approach AI as a tool that supports the engineering process while
 maintaining human responsibility for **architecture, implementation,
 validation and technical decisions**.
 
-### Areas of Study & Interest
+## 🔬 Areas of Study & Interest
 
 🤖 **Artificial Intelligence & Generative AI**
 
 🦾 **Robotics & Intelligent Systems**
 
-🔬 **Nanotechnology**
-
-🧠 **Human-AI Collaboration**
+🔬 **Nanotechnology & Emerging Technologies**
 
 ⚙️ **AI-Assisted Software Development**
 
