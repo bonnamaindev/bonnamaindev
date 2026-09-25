@@ -1,18 +1,12 @@
 # Hi, I'm Alexandre Bonnamain 👋
 
-### Full Stack Developer | Java | Spring Boot | Python | PostgreSQL | JavaScript
+### Python Developer | Backend & Web Development | SQL & MySQL | HTML, CSS & JavaScript | PHP | AI-Assisted Software Development
 
-I'm a Systems Analysis and Development student focused on building modern,
-well-structured and production-oriented software.
+I'm a Systems Analysis and Development student focused on **Python, Back-End development and Web applications**.
 
-My primary development path is the **Java ecosystem**, with a focus on
-**Java, Spring Boot, REST APIs and PostgreSQL**.
+My background includes Web development, databases, technical support, infrastructure and technology education. That experience gave me a broader view of software and taught me to look beyond the code when solving a problem.
 
-I also develop projects with **Python**, exploring software development,
-automation, data processing and practical applications of Artificial Intelligence.
-
-My background includes Full Stack development, database management,
-web infrastructure, technical support and programming instruction.
+Today, my main goal is to keep growing as a **Python Back-End Developer**, building projects that involve APIs, databases, business logic, testing and software engineering practices.
 
 ---
 
@@ -20,138 +14,103 @@ web infrastructure, technical support and programming instruction.
 
 ### Back-End
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-End
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
+**SQL · Relational Databases · Data Modeling**
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 💻 What I'm Building
 
-My GitHub is focused on practical projects that demonstrate software
-engineering concepts through real implementations rather than isolated
-code examples.
+I prefer building projects that solve real problems instead of filling my GitHub with isolated exercises or tutorial clones.
 
-I develop and publish projects involving:
+My projects and studies are focused on:
 
-- ☕ **Java & Spring Boot** — Back-End applications and REST APIs
-- 🐍 **Python** — Software development, automation and data processing
-- 🌐 **Full Stack Development** — Back-End, Front-End and databases
-- 🗄️ **SQL & Databases** — PostgreSQL and MySQL
-- 🧪 **Software Engineering** — Architecture, testing and clean code
-- 🤖 **AI-Assisted Development** — AI applied as an engineering and productivity tool
+- 🐍 **Python** — Back-End development, automation and practical applications
+- 🌐 **Web Development** — Back-End, Front-End and databases working together
+- 🗄️ **SQL & MySQL** — Relational databases, queries and data modeling
+- 🔌 **APIs** — Communication between applications and services
+- 🧪 **Software Engineering** — Testing, architecture, validation and maintainable code
+- 🤖 **AI-Assisted Development** — AI used as a practical engineering tool
+
+I want every project here to be something I can understand, explain and improve over time.
 
 ---
 
 ## 🤖 AI & Emerging Technologies
 
-Alongside my core Full Stack development path, I actively study
-**Artificial Intelligence** and emerging technologies related to the
-future of software and intelligent systems.
+Artificial Intelligence is one of the areas I'm actively studying alongside software development.
 
-I explore the practical use of **Generative AI in software development**,
-using AI as a supporting engineering tool for:
+I use **Generative AI** as a supporting tool for technical research, debugging, code review, documentation, testing and comparing different approaches to a problem.
 
-- Software analysis and problem solving
-- Research and technical exploration
-- Debugging and troubleshooting
-- Code review and refactoring support
-- Test planning and validation
-- Technical documentation
-- Development productivity
+I'm also studying **Computer Vision**, mainly to understand how software can analyze and work with images in practical applications.
 
-I approach AI as a tool that supports the engineering process while
-maintaining human responsibility for **architecture, implementation,
-validation and technical decisions**.
-
-## 🔬 Areas of Study & Interest
-
-🤖 **Artificial Intelligence & Generative AI**
-
-🦾 **Robotics & Intelligent Systems**
-
-🔬 **Nanotechnology & Emerging Technologies**
-
-⚙️ **AI-Assisted Software Development**
-
-These are areas of continuous study and exploration alongside my
-professional software development path.
-
----
-
-## 📚 Current Development Focus
-
-### Primary Stack
-
-**Java · Spring Boot · PostgreSQL · REST APIs**
-
-My main professional focus is developing Back-End and Full Stack
-applications using the Java ecosystem.
-
-### Also Building With
-
-**Python · JavaScript · PHP · MySQL**
-
-I use Python as an additional programming language for software
-development, automation, data processing and AI-related experimentation.
-
-### Currently Studying
-
-**Generative AI · Robotics · Nanotechnology · Software Architecture**
-
-I'm continuously expanding my technical knowledge beyond traditional
-software development and exploring how emerging technologies can
-interact with modern software systems.
+I like using AI to speed up parts of the development process, but I don't want it to replace understanding. If code or a technical decision goes into one of my projects, I want to know what it does, why it works and why I'm using it.
 
 ---
 
 ## 🧠 Software Engineering Interests
 
-Beyond programming languages and frameworks, I'm interested in the
-engineering principles behind maintainable and scalable software.
+Beyond programming languages, I'm interested in understanding how software is designed and maintained.
 
-Some of the topics I'm continuously developing include:
+Some of the topics I'm currently developing include:
 
 - Object-Oriented Programming
 - REST API design
 - Relational database modeling
 - Software architecture
 - Clean Code
-- Design Patterns
 - Authentication and authorization
 - Web security
 - Automated testing
+- Error handling and validation
 - Git and version control
 - Technical documentation
-- AI-assisted engineering workflows
+- AI-assisted development workflows
+
+---
+
+## 🛠️ Background
+
+Before focusing my career on Python development, I worked with different areas of technology.
+
+My experience includes:
+
+- Web development with HTML, CSS, JavaScript and PHP
+- MySQL databases
+- WordPress development and maintenance
+- Web hosting, domains and SSL/HTTPS
+- Technical support and troubleshooting
+- Networks and infrastructure
+- Linux environments
+- Technology and programming instruction
+
+That background still influences the way I approach development today. Sometimes the problem is in the code, but sometimes it's in the database, an integration, the environment or simply in how the problem was understood.
 
 ---
 
 ## 🎓 Education
 
-### Technology Degree in Systems Analysis and Development
+### Systems Analysis and Development
 
 **UniCesumar**  
 In progress
@@ -170,17 +129,11 @@ Completed in 2025
 
 ## 🎯 Current Goals
 
-My current professional goal is to grow as a **Java Full Stack Developer**,
-building production-oriented applications with **Java, Spring Boot,
-PostgreSQL and modern web technologies**.
+My current goal is to grow as a **Python Back-End Developer**, building increasingly complete applications involving **APIs, SQL databases, business logic, testing and Web technologies**.
 
-At the same time, I continue developing projects with **Python** and
-expanding my knowledge of **Artificial Intelligence**, particularly its
-practical application in software engineering.
+At the same time, I'm continuing my studies in **Generative AI and Computer Vision**, especially where these technologies can be applied to real software projects.
 
-In the long term, I'm also interested in understanding the convergence
-between **software, AI, robotics and nanotechnology**, and how these
-technologies may contribute to future intelligent systems.
+This GitHub is where I document that evolution through projects I can build, understand and defend technically.
 
 ---
 
